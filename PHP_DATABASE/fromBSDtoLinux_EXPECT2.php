@@ -102,7 +102,7 @@ if (!$dbconnPg) {
                     
   }
 fclose ($stream);        //closed sream
- `chown -R vmail:vmail /var/vmail/tvnet.if.ua `; //  change recursively owner and owner of  group for folders  
+ `chown -R vmail:vmail /var/vmail/domain.com `; //  change recursively owner and owner of  group for folders  
 }
 
 echo "JOB DUN!\n";
