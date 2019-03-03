@@ -1,3 +1,3 @@
 # PHP_scripts
 
-First stepts to creat some usefull scripts
+First steps to create some useful scripts
