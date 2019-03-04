@@ -80,6 +80,6 @@ foreach ($result as $row) {
     }else{ 
     echo "Number emails that woth erasing is  ".$erasingCount." but must be ".count($falseEmails)."\n";
      print_r(array_diff ($allEmails,$correctEmails,$falseEmails )); // if some part will be not delete, print what left or if all emails is wrong - print nothing
-     echo " must repeed agai \n";
+     echo " need to repeat again \n";
     }
  
